@@ -1,0 +1,29 @@
+# Compiled Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+**/vbcu_env/
+**/.venv/
+**/env/
+**/venv/
+
+# Environment configurations containing secrets
+**/.env
+
+# Local Databases
+**/*.db
+**/vbcua.db
+
+# Testing
+.pytest_cache/
+
+# Dynamic temporary wave images
+**/wave_*.png
+**/temp_*/
+
+# Ignore only dynamically generated evaluation report PDFs
+**/*report_*.pdf
+**/VBCUA_Assessment_*.pdf
+**/VBCUA_Report_*.pdf

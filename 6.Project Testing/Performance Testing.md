@@ -2,6 +2,7 @@
 
 **Project Name:** Vocal and Behavioral Candidate Evaluation System (VBCUA)
 **Team ID:** (not a team leader and team leader is not in contact)
+**Date:** 01 July 2026
 
 ## Testing Strategy
 - **Unit Testing:** A suite of tests utilizing `pytest` is included in the `tests/` directory.

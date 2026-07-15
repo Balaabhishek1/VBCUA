@@ -2,6 +2,7 @@
 
 **Project Name:** Vocal and Behavioral Candidate Evaluation System (VBCUA)
 **Team ID:** (not a team leader and team leader is not in contact)
+**Date:** 02 July 2026
 
 ## Documentation Links
 - **README.md:** Located in the repository root, providing an exhaustive overview of features, architecture, and setup instructions.

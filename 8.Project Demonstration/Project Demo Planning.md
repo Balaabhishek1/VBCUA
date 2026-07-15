@@ -1,7 +1,7 @@
 # Project Demo Planning
 
 **Project Name:** Vocal and Behavioral Candidate Evaluation System (VBCUA)
-**Team ID:** Solo Developer
+**Team ID:** (not a team leader and team leader is not in contact)
 
 ## Demo Preparation
 - **Environment:** Ensure the local virtual environment is active and API keys (Gemini) are loaded into the `.env` file.

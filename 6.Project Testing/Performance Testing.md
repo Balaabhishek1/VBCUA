@@ -1,7 +1,7 @@
 # Performance Testing
 
 **Project Name:** Vocal and Behavioral Candidate Evaluation System (VBCUA)
-**Team ID:** Solo Developer
+**Team ID:** (not a team leader and team leader is not in contact)
 
 ## Testing Strategy
 - **Unit Testing:** A suite of tests utilizing `pytest` is included in the `tests/` directory.
